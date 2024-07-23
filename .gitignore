@@ -1,0 +1,8 @@
+*.cmd
+*.mod
+*.o
+*.ko
+*.order
+*.mod.c
+*.symvers
+.clang-format
